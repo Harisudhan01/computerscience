@@ -373,6 +373,52 @@ body {
 .cd:hover .m1 {
     display: none;
 }
+#bsc{
+    font-size: 50px;
+    margin-left: 300px;
+    margin-top: 50px;
+    color:rgb(57, 18, 66)
+}
+#stu{
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    
+}
+#counting{
+    font-size: 50px;
+    font-family: monospace;
+    margin-left: 660px;
+    color: darkblue;
+}
+#sub,#sd{
+    font-size: 30px;
+    margin-left: 570px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+#t,#e,#p,#py,#na{
+    font-size: 20px;
+    color:darkblue;
+    text-align: center;
+}
+
+#boss{
+    margin-top: 35px;
+    
+}
+#sd{
+    margin-top: 30px;
+     text-decoration: underline;
+}
+#pdf{
+    height:600px;
+    width:800px;
+    align-items: center;
+    margin-left: 260px;
+    margin-top: 20px;
+}
+
 
 @media (max-width: 1115px) {
     .image2 {
