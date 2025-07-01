@@ -41,8 +41,7 @@
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-variation-settings:
-        "wdth" 100;
+         text-shadow: 2px 2px 1px black;
 }
 
 p {
@@ -77,7 +76,7 @@ p {
     font-size: 50px;
     color: yellow;
     text-align: center;
-
+  text-shadow: 9px 5px 9px black;
 }
 
 .m1 {
@@ -102,6 +101,7 @@ p {
     border-bottom-right-radius: 40px;
     margin-left: 5px;
     color: rgb(207, 25, 25);
+    text-shadow: 1px 2px 2px rgb(49, 13, 13);
 }
 
 .out {
@@ -125,6 +125,7 @@ p {
     border-radius: 20px;
     margin-bottom: 0px;
     height: 500px;
+        box-shadow: 1px 1px 40px black;
 
 }
 
@@ -136,6 +137,7 @@ p {
     border-radius: 20px;
     margin-top: -600px;
     height: 500px;
+        box-shadow: 1px 1px 40px black;
 }
 
 h2 a {
@@ -388,8 +390,9 @@ body {
     width: 450px;
     border-radius: 20px 20px;
     margin-left: 28px;
-
-
+}
+.kum{
+     text-shadow: 2px 2px 1px black;
 }
 
 @media (max-width: 1115px) {

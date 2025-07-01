@@ -40,8 +40,7 @@
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-variation-settings:
-        "wdth" 100;
+    text-shadow: 2px 2px 1px black;
 }
 
 p {
@@ -76,7 +75,7 @@ p {
     font-size: 50px;
     color: yellow;
     text-align: center;
-
+    text-shadow: 9px 5px 9px black;
 }
 
 .m1 {
@@ -101,6 +100,7 @@ p {
     border-bottom-right-radius: 40px;
     margin-left: 5px;
     color: rgb(207, 25, 25);
+    text-shadow: 1px 2px 2px rgb(49, 13, 13);
 }
 
 .out {
@@ -124,6 +124,7 @@ p {
     border-radius: 20px;
     margin-bottom: 0px;
     height: 500px;
+    box-shadow: 1px 1px 40px black;
 
 }
 
@@ -135,6 +136,7 @@ p {
     border-radius: 20px;
     margin-top: -480px;
     height: 500px;
+     box-shadow: 1px 1px 40px black;
 }
 
 h2 a {
@@ -257,6 +259,7 @@ body {
 .pro {
     text-align: center;
     padding: 15px;
+
 }
 
 .th {
@@ -320,6 +323,7 @@ body {
     width: 1050px;
     margin-top: 30px;
     margin-left: -1000px;
+    text-shadow: 2px 0px 2px rgb(31, 29, 29);
 }
 
 .po {
@@ -349,9 +353,10 @@ body {
 }
 
 .denni {
-    color: rgb(199, 21, 21);
+    color: rgb(255, 0, 0);
     font-size: 30px;
     font-weight: bolder;
+    text-shadow: 2px 1px 2px black;
 }
 
 .row2 {
@@ -377,7 +382,9 @@ body {
     font-size: 50px;
     margin-left: 300px;
     margin-top: 50px;
-    color:rgb(57, 18, 66)
+    color:rgb(57, 18, 66);
+    text-shadow: 3px 0px 3px black;
+
 }
 #stu{
     font-size: 30px;
@@ -418,6 +425,10 @@ body {
     margin-left: 260px;
     margin-top: 20px;
 }
+.kum{
+     text-shadow: 2px 2px 1px black;
+}
+
 
 
 @media (max-width: 1115px) {
@@ -589,6 +600,7 @@ body {
         font-size: 15px;
         color: yellow;
         text-align: center;
+        
 
     }
 
